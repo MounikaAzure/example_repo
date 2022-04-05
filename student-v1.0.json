@@ -4,5 +4,6 @@
 	"class": "8th",
 	"percentile":"80",
 	"school" : "HPS",
-	"accodamic-year":2020
+	"accodamic-year":2020,
+	"version" : 1.0
 }
